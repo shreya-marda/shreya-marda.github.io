@@ -47,7 +47,7 @@ My hobbies are dancing, painting and sketching.
 * I have many hobbies and even I like spending time with those hobbies like dancing, painting and sketching.
 * I have also received many prizes in these hobbies.In painting competition in IIT Goa on the Republic day I got 2nd prize.
 * I also participated in CultRang in the dance compeitions like ABCD, Tribhanga, ARtistry and Abstract.
-* I have given the pictures of my drawings below:
+* I have given the pictures of my drawings:
   
 ![Drawing1](img/D1.jpg)
 
